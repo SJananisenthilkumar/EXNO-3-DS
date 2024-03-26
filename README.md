@@ -201,6 +201,6 @@ plt.show()
 ![image](https://github.com/SJananisenthilkumar/EXNO-3-DS/assets/144871139/a838c634-689a-4c63-bd0c-3282d86b86a0)
 
 # RESULT:
-         Finally, perform Feature Encoding and Transformation process is executed successfully.
+Thus perform Feature Encoding and Transformation process is executed successfully.
 
        
